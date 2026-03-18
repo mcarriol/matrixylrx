@@ -17,10 +17,10 @@ const GOLD = "#C9A96E";
 const DM = "'DM Sans', system-ui, sans-serif";
 
 const IMGS = {
-  hero:  "https://images.unsplash.com/photo-1506126613408-eca07ce68773?w=1800&q=80",
-  cells: "https://images.unsplash.com/photo-1570172619644-dfd03ed5d881?w=1800&q=80",
-  labs:  "https://images.unsplash.com/photo-1537368910025-700350fe46c7?w=1200&q=80",
-  heal:  "https://images.unsplash.com/photo-1532187863486-abf9dbad1b69?w=1200&q=80",
+  hero:  "https://images.unsplash.com/photo-1616394584738-fc6e612e71b9?w=1800&q=80",  // close-up glowing skin / skincare
+  cells: "https://images.unsplash.com/photo-1559181567-c3190ca9959b?w=1800&q=80",  // skincare serum / dropper
+  labs:  "https://images.unsplash.com/photo-1537368910025-700350fe46c7?w=1200&q=80",  // doctor portrait
+  heal:  "https://images.unsplash.com/photo-1556228720-195a672e8a03?w=1200&q=80",  // facial / skincare treatment
 };
 
 const s = {
